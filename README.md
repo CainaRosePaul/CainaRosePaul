@@ -4,4 +4,4 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h2>🎓   Studying Computer Science and Engineering at CUSAT.</h2?
+<h4>🎓   Studying Computer Science and Engineering at CUSAT.</h4>
