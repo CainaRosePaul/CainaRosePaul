@@ -1,5 +1,5 @@
 # CainaRosePaul
 
-<h2> Hey there! I'm Caina Rose Paul<img src="https://media.tenor.com/uQJyw8sJs5kAAAAC/emoji-emoji-hello.gif">.</h2>
+<h2> Hey there! I'm Caina Rose Paul<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">.</h2>
 
-<a href="https://musthafav.herokuapp.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Check%20My-Portfolio-red"></a>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
