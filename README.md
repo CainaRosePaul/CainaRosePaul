@@ -4,4 +4,4 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h4>🎓   Studying Computer Science and Engineering at CUSAT.</h4>
+<h4>🎓   Studying  Master in Computer Science at RPTU.</h4>
